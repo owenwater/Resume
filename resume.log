@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.25)  27 JAN 2012 13:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.25)  22 MAY 2012 10:19
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -86,14 +86,14 @@ Here is how much of TeX's memory you used:
  3633 multiletter control sequences out of 15000+50000
  4906 words of font info for 18 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 29i,4n,21p,171b,148s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,4n,21p,177b,148s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive
 /fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/am
 sfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
 r7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></us
 r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 86630 bytes).
+Output written on resume.pdf (1 page, 86595 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
